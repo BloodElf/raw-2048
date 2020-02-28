@@ -1,3 +1,3 @@
 FROM nginx
 
-COPY ./ /data/app/2048App
+COPY ./ /usr/share/nginx/html
